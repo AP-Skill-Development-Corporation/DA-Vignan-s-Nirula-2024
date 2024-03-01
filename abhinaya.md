@@ -1,0 +1,42 @@
+### Resume
+- profile
+    -Image:
+       - <img src="abhi.jpg" height="100px" width="200px"></img>
+    - Name:
+       - Nadendla Abhinaya Sri
+    - Date of Birth:
+        - 22-06-2004
+    - phone No:
+        - +919392094469
+    - Email-id:
+        - nadendlaabhinayasri@gmail.com
+- Educational Qualification:
+    - SSC
+        - Little Star High School
+        - passing year-2020
+        - percentage-100
+    - Intermediate
+        - Sri Saraswathi Junior College
+        - passing year-2022
+        - percentage-89.1
+    - Btech
+        - Vignan's Nirula Institute Of Technology And Science For Women
+            - 1st Btech
+                - 1st sem CGPA-8.15
+                - 2nd sem CGPA-7.69
+            - Current pursuing 2nd year
+- Skills
+    - programming Languages
+        - c,python
+- Projects
+    - CSP(Community service project)
+        - Name of the project is Creating Awareness on Environment Protection
+        - Done in the 1st Btech 2nd sem
+- Areas of Interest
+    - Interested in programming languages,listening music
+- Certificates
+    - Nptel certificate in the Problem Solving through C
+    - Infosys Spring Board Certificates On Fundamentals Of python
+        - Basics of Python
+        - Certificate on part-1 in Fundamentals Of Python
+        - Certificate on part-2 in Fundamentals Of Pytho

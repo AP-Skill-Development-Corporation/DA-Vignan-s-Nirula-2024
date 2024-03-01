@@ -1,0 +1,42 @@
+### Resume
+- *Profile*
+    - *Image:*
+        - <img src="raji.jpg" height="100px" width="150px"></img>
+    - *Name:*
+        - kaipu Rajyalakshmi
+    - *Date of Birth:*
+        - 10-6-2004
+    - *Phone No:*
+        - 9392292564
+    - *Email-Id:*
+        - kaipurajyalakshmi868@gmail.com
+- *Educational Qualification:*
+    - *SSC*
+        - Krishnaveni High School
+        - Passing year-2020
+        - Percentage-99.50
+    - *Intermediate*
+        - Nri vidhya Junior College
+        - Passing year-2022
+        - Percentage-96.50
+    - *Btech*
+        - Vignan's Nirula Institute Of Technology And Sciences For Women
+            - 1st Btech
+                - 1st sem CGPA-9.23
+                - 2nd sem CGPA-8.93
+             - Current pursuing 2nd year 
+- *Skills*
+    - *Programming Languages*
+        - C,C++,Python
+- *Projects*
+    - *CSP(Community Service Project)* 
+        - Name of the project is conservation methods of water in agricuture
+        - Done in the 1st btech 2nd sem
+        - snake game design
+- *Areas of Interest*
+    - Interested in learning programming languages,listening music and watching movies
+- *Certificates*
+    - Nptel Certificate in The Joy Of Computing In Python
+    - Infosys Spring Board Certificates on Fundamentals of Python
+        - Certificate on part-1 Fundamentals Of Python
+        - Certificate on part-2 in Fundamentals Of Python
